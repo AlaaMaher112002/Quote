@@ -1,0 +1,29 @@
+container{
+ text-align: center;
+
+}
+body{
+   background-color:#231942;
+   color: white;
+}
+h1{
+    color: #ffb3c1;
+    padding-top: 40px;
+    font-size: 80px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-size: 38px ;
+}
+button{
+    background-color:#ffb3c1;
+    color: white;
+    padding: 30px 95px;
+    margin-left: 35%;
+    border-radius: 15px;
+    border-color: aliceblue;
+
+}
+button:hover{
+    background-color:#BE95C4;
+}
